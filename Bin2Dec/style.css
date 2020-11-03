@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+.mainHeader {
+  border-bottom: 3px solid black;
+  padding: 0px 15px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  border-radius: 0px;
+}
+
+.mainBody {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px;
+  padding: 40px;
+}
+form{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.binNumber {
+  font-size: 2em;
+  border: 3px solid black;
+  border-radius: 5px;
+  text-align: center;
+  margin: 15px;
+}
+
+.texts {
+  font-weight: normal;
+}
