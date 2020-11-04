@@ -36,42 +36,10 @@
   margin: 50px;
 }
 
-.css-code{  
-  display: none;
-}
-/* 
-.css-code-all{
-  padding: 0px;
-}
-.css-code input{
-  border: none;
-  font-size: 20px;
-}
-.css-code input:focus{
-  border:none;
-  outline: none;
-}
-
-.top-l{
-  display: flex;
-}
-
-.top-r{
-  display: flex;
-}
-
-.bot-l{
-  display: flex;
-}
-
-.bot-r{
-  display: flex;
-} */
-
-.btn-copy{
+.btn-copy {
   margin: auto;
 }
-.copy{
+.copy {
   font-size: 26px;
   border-radius: 3px;
   cursor: pointer;
@@ -79,10 +47,10 @@
   background: #c060a1;
 }
 
-.copy:active{
+.copy:active {
   background: #91587f;
 }
 
-.copy-to-clipboard{
-  display: hidden;
+.copy-to-clipboard {
+  height: 0px;
 }
