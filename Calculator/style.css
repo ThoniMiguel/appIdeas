@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+.mainHeader {
+  border-bottom: 3px solid black;
+  padding: 0px 15px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  border-radius: 0px;
+}
+
